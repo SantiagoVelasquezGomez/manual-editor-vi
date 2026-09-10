@@ -35,8 +35,3 @@ HTML
 CSS
 GitHub Pages
 🌿 Flujo de trabajo utilizado
-
-El proyecto utiliza el siguiente flujo:
-
-Issue → Branch → Cambios → Commit → Push → Pull Request → Merge → Cierre del Issue
-
